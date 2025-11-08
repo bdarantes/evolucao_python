@@ -18,6 +18,7 @@ O objetivo é construir uma base sólida em lógica, criar aplicações prática
 
 ---
 
+```bash
 evolucao-python/
 │
 ├── README.md
@@ -86,7 +87,7 @@ evolucao-python/
 │   ├── modelos_regressao_classificacao/
 │   │   └── classificacao_clientes.py
 │   ├── redes
-
+``
 
 ---
 
